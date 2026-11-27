@@ -4,9 +4,7 @@ venv/
 __pycache__/
 *.py[cod]
 
-# Dữ liệu và kết quả sinh ra (theo yêu cầu đồ án)
-data/
-ket_qua/
+
 
 # File hệ điều hành / IDE
 .DS_Store
